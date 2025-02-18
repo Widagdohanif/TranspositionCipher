@@ -1,2 +1,2 @@
 # TranspositionCipher
-Cryptography porgram with Transposition Algorithm
+GUI Cryptography program with Transposition Algorithm
